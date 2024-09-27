@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+My Name is Luca Bozzetti, I am 20 Years Old and a passionate Programmer studying at Technical University of Munich.
+
 ![Contributions](https://github.com/lucabzt/lucabzt/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
 <!--
 **lucabzt/lucabzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
